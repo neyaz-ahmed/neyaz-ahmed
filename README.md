@@ -51,7 +51,4 @@ I'm a graduate researcher specializing in **Computational Fluid Dynamics** and *
 ## 📫 Let's Connect!
 
 
-
----
-
 💡 *Open to research collaborations and innovative engineering projects*
