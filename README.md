@@ -1,5 +1,9 @@
 # Hi there, I'm Neyaz Ahmed 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neyaz-ahmed-31212019b/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://neyaz-ahmed.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Niazahmed1864@gmail.com)
+
 ## 🎓 About Me
 
 I'm a graduate researcher specializing in **Computational Fluid Dynamics** and **Heat Transfer**, currently pursuing my Master's in Applied Mathematics and Computational Science at North South University, Bangladesh. My work focuses on numerical investigations of supercritical fluid behavior in advanced heat exchanger systems.
@@ -46,9 +50,7 @@ I'm a graduate researcher specializing in **Computational Fluid Dynamics** and *
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neyaz-ahmed-31212019b/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://neyaz-ahmed.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Niazahmed1864@gmail.com)
+
 
 ---
 
