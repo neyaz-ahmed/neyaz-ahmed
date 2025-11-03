@@ -1,1 +1,55 @@
-👋 Hi, I'm Neyaz AhmedComputational Engineer | Applied Mathematics Researcher | CFD & Heat Transfer SpecialistI am a Mechanical Engineer currently pursuing a Master's in Applied Mathematics and Computational Science. My work focuses on the intersection of fluid dynamics, heat transfer, and computational modeling using high-level simulation tools and programming to solve complex engineering and scientific problems. I thrive on interdisciplinary challenges, from optimizing heat exchangers using CFD to building machine learning models for biomedical analysis.🛠️ Technical Toolkit & Skills|| Category | Tools & Languages | Focus Areas || Computational Fluid Dynamics (CFD) & FEA | ANSYS FLUENT, Comsol, HTRI Xchanger | Heat Transfer, Fluid Mechanics, Turbulence Modeling, Numerical Analysis || Programming & Data | Python, MATLAB, C++ & C | Scientific Computing, Machine Learning, Data Processing || CAD & Simulation | SOLIDWORKS, AutoCAD, Simulink, Proteus | Mechanical Design, Finite Element Analysis (FEA), Control Systems |🔬 Featured Research & Projects1. Numerical Investigation of Supercritical $\text{CO}_2$ Heat Transfer (MSc Thesis)Focus: Computational analysis of heat transfer performance of supercritical carbon dioxide ($\text{sCO}_2$) within microtube heat exchangers at varying Reynolds Numbers.Goal: Optimize thermal efficiency for applications in advanced power cycles.2. Curved Plate and Frame Heat ExchangerRole: Lead Engineer, focused on design optimization.Impact: Proposed a design utilizing curved plates instead of traditional flat plates to improve thermal efficiency.Tools: Modeled in SOLIDWORKS and extensively simulated using HTRI Xchanger and ANSYS FLUENT.3. Lungs Performance Analysis Using SpirometryInterdisciplinary Focus: Designed an affordable medical device to assess lung function in a post-Covid context.Technology: Used Arduino to measure Forced Vital Capacity (FVC) and a Machine Learning model (trained with MATLAB) to predict lung condition.4. Mars Rover Development (Team Interplaneter)Role: Mechanical team lead for the BUET Mars Rover team.Achievement: Responsible for the design and manufacturing of the wheel, chassis, and suspension system for the Anweshan 3 Mars Rover using SOLIDWORKS (Finalist in University Rover Challenge, Innovation Award winner).🎓 Education & AchievementsM.S. in Applied Mathematics and Computational Science (AMCS)North South University (2024 - Present)Academic Performance: 85% (Until 3rd semester)B.S. in Mechanical EngineeringShahjalal University of Science and Technology (SUST) (2018 - 2023)IELTS Score: 8.5 Overall (Listening 9.0, Reading 8.5)Awards:Hult Prize - SUST Champion, Regional Finalist (Mumbai).Innovation Award in the International Planetary Aerial Systems Challenge (2021).National Board Scholar (HSC & SSC exams).🔗 Connect with Me| Contact Type | Details || Email (Personal) | Niazahmed1864@gmail.com || Email (Academic) | 1710007@me.buet.ac.bd || Phone/Location | +8801306674664 || LinkedIn | Connect on LinkedIn || Website | My Personal Website/Portfolio |Feel free to reach out for collaborations on CFD, scientific computing, or any challenging engineering projects!
+# Hi there, I'm Neyaz Ahmed 👋
+
+## 🎓 About Me
+
+I'm a graduate researcher specializing in **Computational Fluid Dynamics** and **Heat Transfer**, currently pursuing my Master's in Applied Mathematics and Computational Science at North South University, Bangladesh. My work focuses on numerical investigations of supercritical fluid behavior in advanced heat exchanger systems.
+
+## 🔬 Research Interests
+
+- Computational Fluid Dynamics (CFD)
+- Heat Transfer & Thermal Analysis
+- Fluid Mechanics
+- Control Engineering
+- Machine Learning Applications in Engineering
+
+## 🛠️ Technical Stack
+
+**Simulation & Analysis:**
+- CFD/FEA: ANSYS FLUENT, COMSOL Multiphysics
+- Numerical Computing: MATLAB, Simulink
+
+**Programming:**
+- Python | MATLAB | C
+- High Performance Computing
+
+**Tools:**
+- LaTeX | Microsoft Office Suite
+
+## 📊 Current Work
+
+🔹 **MS Thesis:** Numerical investigation on heat transfer of supercritical carbon dioxide in microtube heat exchangers at different Reynolds numbers
+
+🔹 **Research Assistant** at North South University, developing advanced CFD models and analyzing heat transfer characteristics
+
+## 📝 Publications
+
+- **Effect of Time-Dependent Wall Temperature on Conjugate Mixed Convection Inside a Chamber with an Oscillating Cylinder** - *International Communications in Heat and Mass Transfer* (Accepted)
+- **Conjugate Mixed Convection in a Differentially Heated Square Cavity** - *ICIMEOM Conference* (2021)
+
+## 🏆 Highlights
+
+- 🥇 National Mathematics Olympiad Champion (2013)
+- 🌍 Hult Prize SUST Champion - Regional Finals, Mumbai
+- 🎓 IELTS: 8.5/9.0
+- 🥉 Bronze Duke of Edinburgh Award (2017)
+- 📚 National Board Scholar (2015, 2017)
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neyaz-ahmed-31212019b/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://neyaz-ahmed.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Niazahmed1864@gmail.com)
+
+---
+
+💡 *Open to research collaborations and innovative engineering projects*
